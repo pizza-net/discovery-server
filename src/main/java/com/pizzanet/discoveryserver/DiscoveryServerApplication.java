@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 public class DiscoveryServerApplication {
     //
-
+//zmiany w kodzie
     public static void main(String[] args) {
         SpringApplication.run(DiscoveryServerApplication.class, args);
     }
